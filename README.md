@@ -1,1 +1,1 @@
-CvApp
+Just a little project to make my resume available through a url. As I live and breath APIs, the only way was through an API, obviously ;-) Of course, anyone is welcome to fork and attach a frontend to it.
